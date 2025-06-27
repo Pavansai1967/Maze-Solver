@@ -1,0 +1,14 @@
+# OS/editor files
+.DS_Store           # macOS metadata
+Thumbs.db           # Windows thumbnails
+*.swp               # Vim swap files
+.idea/              # JetBrains IDE (WebStorm, etc.)
+.vscode/            # VS Code settings (if you use it)
+
+# Node.js (optional, in case you add npm later)
+node_modules/
+npm-debug.log
+
+# Local config files (if any)
+.env                # Environment variables
+config.js           # Local configs
